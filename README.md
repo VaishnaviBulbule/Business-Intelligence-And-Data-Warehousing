@@ -8,4 +8,4 @@ This project was implemented as a part of an assignment of an unit called 'Busin
 
 (iv) In the end, we used Tableau to produce the business intelligence reports.
 
-Contributors: Ashwin Mehta and Vaishnavi Bulbule
+Contributors: Shridhar Pawar and Ashwin Mehta
